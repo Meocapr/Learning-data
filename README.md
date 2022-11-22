@@ -1,5 +1,16 @@
-# Learning-data
-1. Analyze the ESRB Rating of Games dataset
-2. Google DA capstone project
-3. Visualzation of World Suicide Rates (Data 2000-2019)
-4. Road Safety of England 2020
+# Data-Analyst-Portfolio
+This repository is for the projects I've done
+Some expertise I prepared for a career as a Data Analyst / Analytics professional by  learn:
+- Exploratory Data Analysis (EDA)
+- Data Wrangling
+- Data Cleaning
+- Practical Statistics (i.e. applying inferential statistics and probability to real-world scenarios, like analyzing A/B tests.)
+- SQL for Data Analysis
+- Data Visualization to draw meaningful conclusions
+...
+## Technical Skills utilized
+* Python
+* Data Analysis/Wrangling libraries (Numpy, Pandas)
+* Data Visualization libraries (Matplotlib, Seaborn)
+* Jupyter Notebooks
+* SQL
